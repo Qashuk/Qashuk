@@ -11,5 +11,8 @@
   <a href="https://t.me/Qashuk_212">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+ <div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=Qashuk&style=flat-square&color=blue" alt="GitHub Bage"/>
+</div>
 
 
